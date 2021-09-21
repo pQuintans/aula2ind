@@ -1,1 +1,2 @@
 Estou fazendo uma alteração no arquivo ExemploDoGit.txt
+Losso não sai do Bronze
